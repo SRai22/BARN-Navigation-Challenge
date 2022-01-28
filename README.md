@@ -24,8 +24,10 @@ sudo apt-get install ros-distro-robot-localization \
                      ros-distro-xacro \
                      ros-distro-message-runtime \
                      ros-distro-topic-tools \
-                     ros-distro-teleop-twist-joy 
-
+                     ros-distro-teleop-twist-joy
+                    
+###
 Install Mobile Robot Programming Toolkit as in the instructions [here](https://docs.mrpt.org/reference/2.3.0/download-mrpt.html)
 
+###
 Clone this repository [here](https://github.com/SRai22/BARN-Navigation-Challenge.git)
