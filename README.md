@@ -21,13 +21,16 @@ sudo apt-get install ros-distro-robot-localization \
                      ros-distro-map-server \
                      ros-distro-move-base \
                      ros-distro-urdf \
-                     ros-distro-xacro \
                      ros-distro-message-runtime \
                      ros-distro-topic-tools \
-                     ros-distro-teleop-twist-joy
+                     ros-distro-teleop-twist-joy \
+                     ros-distro-jackal-simulator \
+                     ros-distro-jackal-navigation \
+                     ros-distro-jackal-control \
+                     ros-distro-jackal-viz
 ```                   
 ###
-Install Mobile Robot Programming Toolkit as in the instructions [here](https://docs.mrpt.org/reference/2.3.0/download-mrpt.html)
+Install Mobile Robot Programming Toolkit as in the instructions [MRPT](https://docs.mrpt.org/reference/2.3.0/download-mrpt.html)
 
 ###
-Clone this repository [here](https://github.com/SRai22/BARN-Navigation-Challenge.git)
+Clone this repository (https://github.com/SRai22/BARN-Navigation-Challenge.git)
