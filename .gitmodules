@@ -1,0 +1,15 @@
+[submodule "src/eband_local_planner"]
+	path = src/eband_local_planner
+	url = https://github.com/utexas-bwi/eband_local_planner.git
+[submodule "src/jackal"]
+	path = src/jackal
+	url = https://github.com/jackal/jackal.git
+[submodule "src/jackal_simulator"]
+	path = src/jackal_simulator
+	url = https://github.com/jackal/jackal_simulator.git
+[submodule "src/jackal_deskop"]
+	path = src/jackal_deskop
+	url = https://github.com/jackal/jackal_desktop.git
+[submodule "src/nav-competition-icra2022"]
+	path = src/nav-competition-icra2022
+	url = https://github.com/SRai22/nav-competition-icra2022.git
