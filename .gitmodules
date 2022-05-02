@@ -13,3 +13,6 @@
 [submodule "src/nav-competition-icra2022"]
 	path = src/nav-competition-icra2022
 	url = https://github.com/SRai22/nav-competition-icra2022.git
+[submodule "src/mrpt_navigation"]
+	path = src/mrpt_navigation
+	url = https://github.com/SRai22/mrpt_navigation.git
